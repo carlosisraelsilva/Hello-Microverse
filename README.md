@@ -1,11 +1,19 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
+<a name="readme-top"></a>
+
 # 📗 Table of Contents
 
 - [📖 Hello Microverse](#about-project)
-  - [🛠 Built With](#built-with)
+- [⚒ Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
+- [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Install](#install)
+    - [Usage ](#usage-)
+    - [Run tests](#run-tests)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -14,7 +22,7 @@
 - [📝 License](#license)
 
 
-# 📖 [Hello Microverse] <a name="about-project"></a>
+# 📖 Hello Microverse Project <a name="about-project"></a>
 
 **Hello Microverse Project** was created with the goal of mastering all of the tools and best practices I learned about GitHub, HTML, and CSS.
 
@@ -57,7 +65,31 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> To get started get a local copy up and running install it locally using npm
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need to Instal the GitHub On your PC 
+
+
+### Setup
+
+Clone this repository to your desired folder
+
+
+### Install
+
+Get a local copy up 
+
+### Usage
+
+Run it locally using npm
+
+
+### Run tests
+
+To run tests, update github on your browser 
+
 
 
 ## 👥 Authors <a name="authors"></a>
