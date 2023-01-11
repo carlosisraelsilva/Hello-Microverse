@@ -1,58 +1,87 @@
-# Hello-Microverse
-<<<<<<< HEAD
-# 📗Table of Contents 
-- [📖 About the Project](#about-project)
-- [🧩Built With](#built-with)
-    - [HTML](#HTML)
-    - [CSS](#CSS)
-    - [LINTER](linter)
+# 📗 Table of Contents
+
+- [📖 Hello Microverse](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-- [💻 Live Demo](#lv-demo)
-- [🚀 Getting Started](#gt-start)
-- [👥 Author](#project-authors)
-- [🔮 Future Features](#Future-Features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [🙏 Show Your Support](#support)
 - [📝 License](#license)
 
 
-# Hello-Microverse-Project- <a name="about-project"></a> 
+# 📖 [Hello Microverse] <a name="about-project"></a>
 
-- This project was created with the goal of mastering all of the tools and best practices I learned about GitHub, HTML, and CSS.
+> Get started on Microverse 
 
-## Built With <a name="built-with"></a>
+**[Hello Microverse]** Project was created with the goal of mastering all of the tools and best practices I learned about GitHub, HTML, and CSS.
 
-### HTML <a name="HTML"></a>
-### CSS <a name="CSS"></a>
-### LINTER <a name="LINTER"></a>
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+> Describe the tech stack and include only the relevant sections that apply to your project.
+
+<details>
+  <summary>Student</summary>
+  <ul>
+    <li><a href="https://html.org/">HTML</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://css.com/">CSS</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>GitHub</summary>
+  <ul>
+    <li><a href="https://github.io/">GitHub</a></li>
+  </ul>
+</details>
+
 
 ### Key Features <a name="key-features"></a>
 
-- **[Follow GitHub flow]**
-- **[Open pull requests in GitHub]**
-- **[Understand the concept of version control.]**
+- **GitHub Workflow**
+- **Lintrs Check**
 
 
-## Live Demo (if available) <a name="lv-demo"></a>
+## 🚀 Live Demo <a name="live-demo"></a>
 
-No
+- [Live Demo Link](https://github.com/carlosisraelsilva/Hello-Microverse-Project)
 
-## Getting Started <a name="gt-start"></a>
 
-- To get a local copy up and running follow these simple example steps and to run this project, install it locally using npm:
+## 💻 Getting Started <a name="getting-started"></a>
 
-## Authors <a name="project-authors"></a>
+> To get a local copy up and running follow these simple example steps and to run this project, install it locally using npm
+
+
+## 👥 Authors <a name="authors"></a>
 
 👤 **Carlos Israel Silva**
 
 - GitHub: [carlosisraelsilva](https://github.com/carlosisraelsilva)
 - Twitter:[@carlosisraelsilva](https://twitter.com/carlosisraels)
 
-## 🔮 Future Features <a name="Future-Features"> </a>
 
-- [UPDATE PR] **[new_feature_1]**
-- [MAKE EASY README FILE] **[new_feature_2]**
+## 🔭 Future Features <a name="future-features"></a>
+
+- Intro to Microverse
+
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -60,16 +89,19 @@ No
 - Feel free to check
 
 
-# 🙏 Acknowledgments <a name="acknowledgments"></a>
-
-<<<<<<< HEAD
-- Microverse Sucess Team 
-
-## Show your support <a name="support"></a>
+## ⭐️ Show your support <a name="support"></a>
 
 - Give a ⭐️ if you like this project!
 
 
-## 📝 License <a name="licence"></a>
 
-- This project is [MIT](./LICENSE) licensed.
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> Give credit to everyone who inspired your codebase.
+
+I would like to thank the Microverse Student Sucess Team
+
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
